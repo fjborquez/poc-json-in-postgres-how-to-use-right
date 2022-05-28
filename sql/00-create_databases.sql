@@ -1,0 +1,2 @@
+--CREATE DATABASE bad_schema;
+--CREATE DATABASE fixed_schema;
